@@ -2,9 +2,7 @@
 title: "Reproducible Research - Project 1"
 author: "Jessy"
 date: "3/28/2021"
-output: 
-  html_document:
-    keep_md: true
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
