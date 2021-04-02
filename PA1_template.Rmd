@@ -2,7 +2,9 @@
 title: "Reproducible Research - Project 1"
 author: "Jessy"
 date: "3/28/2021"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
